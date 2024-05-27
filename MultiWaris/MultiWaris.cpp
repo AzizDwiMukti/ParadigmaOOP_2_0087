@@ -24,4 +24,11 @@ public:
 
 class pelajar :virtual public orang {
 public:
+
+	pelajar(int pUmur) :
+		orang(pUmur) //hal ini dapat dilakukan jika menggunakan virtual
+	{
+		cout << "Pelajar dibuat\n" << endl;
+	}
 };
+
