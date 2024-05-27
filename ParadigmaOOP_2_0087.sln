@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_2_0087", "Para
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding_0087", "noOverriding_0087\noOverriding_0087.vcxproj", "{44671C57-C6CB-447F-8901-9057BD54E676}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoPewarisan", "NoPewarisan\NoPewarisan.vcxproj", "{B7B05358-0268-4FB2-8960-4168D7F94EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{44671C57-C6CB-447F-8901-9057BD54E676}.Release|x64.Build.0 = Release|x64
 		{44671C57-C6CB-447F-8901-9057BD54E676}.Release|x86.ActiveCfg = Release|Win32
 		{44671C57-C6CB-447F-8901-9057BD54E676}.Release|x86.Build.0 = Release|Win32
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Debug|x64.Build.0 = Debug|x64
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Debug|x86.Build.0 = Debug|Win32
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Release|x64.ActiveCfg = Release|x64
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Release|x64.Build.0 = Release|x64
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Release|x86.ActiveCfg = Release|Win32
+		{B7B05358-0268-4FB2-8960-4168D7F94EB9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
